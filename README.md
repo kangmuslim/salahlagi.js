@@ -1,0 +1,2 @@
+# salahlagi.js
+salahlagi
